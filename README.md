@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-###THE PROGRAMMING LANGUAGES I USED 
+
 ```txt
-JavaScript   6 hrs 10 mins         ████████████████████████▓   99.00 %
-PHP          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JavaScript   15 hrs 35 mins        █████████████████████████   99.60 %
+PHP          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
-###ACTIVITY(DAILY)
-###ACTIVITY(MONTH)
+
 <!--END_SECTION:waka-->
