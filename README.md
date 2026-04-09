@@ -1,8 +1,13 @@
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript   15 hrs 35 mins        █████████████████████████   99.60 %
-PHP          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```rust
+From: 25 March 2026 - To: 09 April 2026
+
+Total Time: 15 hrs 42 mins
+
+JavaScript   15 hrs 39 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   99.60 %
+PHP          3 mins                -------------------------   00.40 %
+Bash         0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
