@@ -11,4 +11,3 @@ Bash         0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
-md <img src="wakatime/stats.svg?v=1" height="300"/>
