@@ -11,4 +11,5 @@ Bash         0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@86ba0385-02e5-4dfe-a2a7-57e4fceec91b/a24857b4-4678-4baa-99b3-081a8726bf2d.svg"></embed></figure>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@86ba0385-02e5-4dfe-a2a7-57e4fceec91b/1d1e186a-cae2-415e-989d-3094d339ebaf.png" /></a>
